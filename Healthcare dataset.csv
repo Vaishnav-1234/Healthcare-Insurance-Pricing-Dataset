@@ -1,0 +1,47 @@
+﻿Name,Age,Gender,BMI,Children,Smoking Status,Location,Insurance Price (USD)
+John Smith,35,Male,29.5,0,Non-Smoker,New York,16450
+Emily Johnson,42,Female,26.8,2,Non-Smoker,Los Angeles,21600
+Michael Williams,50,Male,31.2,3,Smoker,Chicago,21080
+Sarah Brown,28,Female,22.3,1,Non-Smoker,Houston,10080
+David Jones,39,Male,28.1,2,Non-Smoker,Phoenix,17640
+Jennifer Martinez,45,Female,29.9,0,Non-Smoker,Philadelphia,18000
+Daniel Anderson,33,Male,25.5,1,Non-Smoker,San Antonio,11520
+Jessica Wilson,37,Female,27.4,2,Smoker,San Diego,16120
+Matthew Taylor,47,Male,33,3,Non-Smoker,Dallas,19720
+Emma Garcia,31,Female,24.7,0,Non-Smoker,San Jose,11100
+Christopher Rodriguez,40,Male,30.5,2,Non-Smoker,Austin,18920
+Olivia Hernandez,29,Female,23.9,1,Non-Smoker,Jacksonville,11020
+James Martinez,48,Male,32.7,3,Smoker,San Francisco,18600
+Sophia Thompson,36,Female,28.3,0,Non-Smoker,Indianapolis,15960
+David Lopez,43,Male,29.8,2,Non-Smoker,Columbus,17550
+Isabella Perez,32,Female,25.1,1,Non-Smoker,Fort Worth,10540
+Daniel Scott,39,Male,27.9,3,Smoker,Charlotte,20100
+Amelia Moore,41,Female,31.5,0,Non-Smoker,Seattle,19600
+Michael Wilson,46,Male,34.2,2,Non-Smoker,Denver,17280
+Mia Taylor,30,Female,26,1,Non-Smoker,Detroit,12210
+Ethan Harris,44,Male,29.6,3,Smoker,Washington,28980
+Ava Martin,35,Female,28.8,0,Non-Smoker,Boston,12210
+Alexander King,49,Male,33.8,2,Non-Smoker,Nashville,25760
+Chloe Lee,34,Female,25.9,1,Non-Smoker,Memphis,9600
+William White,38,Male,26.3,2,Smoker,Portland,30550
+Abigail Allen,27,Female,24.5,0,Non-Smoker,Oklahoma City,13050
+Ryan Hall,52,Male,35.1,3,Smoker,Las Vegas,23760
+Harper Young,33,Female,27.6,1,Non-Smoker,Louisville,13940
+Benjamin Hernandez,50,Male,31.8,2,Non-Smoker,Baltimore,21830
+Evelyn Garcia,39,Female,29.2,0,Non-Smoker,Milwaukee,19270
+Lucas Martinez,47,Male,32.5,3,Smoker,Albuquerque,22400
+Zoe Scott,31,Female,26.5,1,Non-Smoker,Tucson,16100
+Aiden Adams,45,Male,30.3,2,Non-Smoker,Fresno,25080
+Nora Wood,37,Female,28,0,Non-Smoker,Sacramento,14430
+Jackson Mitchell,48,Male,33.5,3,Smoker,Mesa,30530
+Leah Price,29,Female,25.3,1,Non-Smoker,Atlanta,9900
+Logan Carter,51,Male,34.7,2,Non-Smoker,Kansas City,22200
+Avery Cooper,32,Female,27.2,0,Non-Smoker,Miami,15480
+Henry Rivera,46,Male,31,3,Smoker,Long Beach,24480
+Ella Richardson,36,Female,29.1,1,Non-Smoker,Virginia Beach,12000
+David Perez,49,Male,32.8,2,Non-Smoker,Oakland,28060
+Scarlett Ross,38,Female,27.8,0,Non-Smoker,Tulsa,14060
+Jack Ward,53,Male,35.3,3,Smoker,Tampa,32120
+Lily Morris,34,Female,26.4,1,Non-Smoker,Arlington,15640
+Lucas Baker,48,Male,31.7,2,Non-Smoker,Wichita,20880
+Sophia Foster,30,Female,25.8,0,Non-Smoker,New Orleans,11840
